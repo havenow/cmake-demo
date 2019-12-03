@@ -19,3 +19,7 @@ CMake-Demo
 install (TARGETS MathFunctions DESTINATION /Users/wangf/Desktop/md-new/cmakeTest/cmake-demo-master/bin)    
 
 ![](https://github.com/havenow/cmake-demo/blob/master/install.png)
+
+- # 在MacOS下生成安装包
+
+![](https://github.com/havenow/cmake-demo/blob/master/pack.png)
